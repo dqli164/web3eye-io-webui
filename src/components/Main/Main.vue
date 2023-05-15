@@ -19,11 +19,11 @@
     </q-input>
     <div class='row looking'>
       <q-space />
-      <q-btn label='Just looking' rounded flat>
+      <!-- <q-btn label='Just looking' rounded flat>
         <q-tooltip>
           Coming soon
         </q-tooltip>
-      </q-btn>
+      </q-btn> -->
       <q-space />
     </div>
     <div class='occupier' />
